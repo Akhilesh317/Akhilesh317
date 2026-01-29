@@ -1,6 +1,6 @@
 <h1 align="center">Akhilesh Kumar</h1>
 <p align="center">
-  <b>Senior Data Engineer / Analytics Engineer</b> • Databricks & Azure Lakehouse • Spark/PySpark • Python • SQL
+  <b>Data Engineer</b> • Databricks • Spark/PySpark • Python • SQL
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 ---
 
 ### 👋 About
-Senior Data Engineer / Analytics Engineer with ~4 years of experience building **Databricks & Azure lakehouse pipelines**, modernizing **SAS→Python** workflows, optimizing **Spark/Delta** performance, and shipping end-to-end data + AI products.
+Data Engineer with 4 years of experience building **Databricks pipelines**, modernizing **SAS→Python** workflows, optimizing **Spark/Delta** performance, and shipping end-to-end data + AI products.
 
 ### ⚡ Core Skills
-`Databricks` `Spark/PySpark` `Python` `SQL` `ETL/ELT` `Airflow` `Azure` `Data Quality` `Performance Tuning`
+`Databricks`  `Spark/PySpark`  `Python`  `SQL`  `SAS`  `ETL/ELT`  `Airflow`  `Azure`  `Data Quality`  `Performance Tuning`
 
