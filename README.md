@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhilesh317&style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Databricks%20%7C%20Azure%20%7C%20Lakehouse-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Databricks%20%7C%20Python%20%7C%20SQL-22C55E?style=flat-square" />
 </p>
 
 ---
