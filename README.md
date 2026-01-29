@@ -15,9 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Databricks%20%7C%20Python%20%7C%20SQL-22C55E?style=flat-square" />
-</p>
 
 ---
 
@@ -25,12 +22,5 @@
 Senior Data Engineer / Analytics Engineer with ~4 years of experience building **Databricks & Azure lakehouse pipelines**, modernizing **SAS→Python** workflows, optimizing **Spark/Delta** performance, and shipping end-to-end data + AI products.
 
 ### ⚡ Core Skills
-`Databricks` `Delta Lake` `Spark/PySpark` `Python` `SQL` `ETL/ELT` `Airflow` `Azure` `Data Quality` `Performance Tuning`
+`Databricks` `Spark/PySpark` `Python` `SQL` `ETL/ELT` `Airflow` `Azure` `Data Quality` `Performance Tuning`
 
-### 📌 Now
-- Databricks DEA prep: Delta • Workflows • Unity Catalog • DLT • system tables/audit logs
-- Building practical, production-style pipelines and AI-assisted apps
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh317&show_icons=true&include_all_commits=true&rank_icon=github" />
-</p>
